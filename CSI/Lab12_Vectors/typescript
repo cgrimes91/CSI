@@ -1,0 +1,78 @@
+Script started on Wed 28 Nov 2018 04:15:44 PM EST
+]0;cgrime11@wasp:~/Lab12_Vectors[?1034h[cgrime11@wasp Lab12_Vectors]$ ./vectors.cpp
+bash: ./vectors.cpp: Permission denied
+]0;cgrime11@wasp:~/Lab12_Vectors[cgrime11@wasp Lab12_Vectors]$ ./vectors
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+2
+The numbers in the vector are:2 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+3
+The numbers in the vector are:2 3 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+4
+The numbers in the vector are:2 3 4 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+5
+The numbers in the vector are:2 3 4 5 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+2
+The numbers in the vector are:2 3 4 5 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+r
+Please enter the number you wish to remove from said vector:
+2
+The numbers in the vector are:3 4 5 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+r
+Please enter the number you wish to remove from said vector:
+3
+The numbers in the vector are:4 5 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+r
+Please enter the number you wish to remove from said vector:
+4
+The numbers in the vector are:5 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+6
+The numbers in the vector are:5 6 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+7
+The numbers in the vector are:5 6 7 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+a
+Please enter the number you wish to add to said vector:
+8
+The numbers in the vector are:5 6 7 8 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+r
+Please enter the number you wish to remove from said vector:
+6
+The numbers in the vector are:5 7 8 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+r7 
+Please enter the number you wish to remove from said vector:
+7
+The numbers in the vector are:5 8 
+Please enter the operation you wish to perform on said vector: [a] add a number, [r] remove a number, [q] quit program
+r
+Please enter the number you wish to remove from said vector:
+/8  8
+Segmentation fault (core dumped)
+]0;cgrime11@wasp:~/Lab12_Vectors[cgrime11@wasp Lab12_Vectors]$ exit
+exit
+
+Script done on Wed 28 Nov 2018 04:16:51 PM EST
